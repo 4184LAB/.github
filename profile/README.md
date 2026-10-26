@@ -2,9 +2,8 @@
 ### 웹 취약점 분석팀 🇰🇷
 
 
-
-## TEAM
-| 멤버 | GitHub | 
+## Member
+| 이름 | GitHub | 
 | --- | --- | 
 | 서기문 | [@seokimun](https://github.com/seokimun) | 
 | 조대영 | [@Dizerojo](https://github.com/Dizerojo) | 
