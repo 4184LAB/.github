@@ -1,7 +1,9 @@
 ## 4184LAB
-### 웹 취약점 분석 팀
+### 웹 취약점 분석팀 🇰🇷
 
-## 팀 멤버
+
+
+## TEAM
 | 멤버 | GitHub | 
 | --- | --- | 
 | 서기문 | [@seokimun](https://github.com/seokimun) | 
